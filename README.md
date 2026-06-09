@@ -9,18 +9,18 @@ This respository contains cyber labs, research, projects, and professional devel
 - Intelligence reports
 - OSINT investigations
 
-  ### Security Labs
-  - TryHackMe
-  - Blue Team Labs
-  - LetsDefend
+### Security Labs
+- TryHackMe
+- Blue Team Labs
+- LetsDefend
  
-  ### Incident Response
-  - Detection and response exercises
-  - Security monitoring activities
+### Incident Response
+- Detection and response exercises
+- Security monitoring activities
  
-  ### Research
-  - Behavioral security
-  - Human factors in cyber security
-  - Cyberpsychology projects
+### Research
+- Behavioral security
+- Human factors in cyber security
+- Cyberpsychology projects
 
 
