@@ -15,3 +15,26 @@ This TryHackMe room introduced Endpoint Detection and Response (EDR) concepts, i
 - Security alert analysis
 
 ## Screenshots
+### EDR Introduction
+
+![](EDRIntroductions.png)
+
+### Features of EDR
+
+![](FeaturesofEDR.png)
+
+### Process Tree Analysis
+
+![](ProcessTree.png)
+
+### Response Actions
+
+![](Response.png)
+
+### Endpoint Security Console
+
+![](EndpointSecurity.png)
+
+### EDR Dashboard
+
+![](EDRDashboard.png)
