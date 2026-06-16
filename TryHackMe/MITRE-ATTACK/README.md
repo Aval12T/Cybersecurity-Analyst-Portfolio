@@ -2,17 +2,17 @@
 
 ## Overview
 
-This TryHackMe room introduced the MITRE ATT&CK framework and demonstrated how adversary behaviors are categorized into tactics and techniques.
+This TryHackMe room introduced the MITRE ATT&CK framework and demonstrated how security teams use tactics, techniques, and procedures (TTPs) to understand and track adversary behavior.
 
 ## Skills Demonstrated
 
 - ATT&CK framework navigation
-- Threat actor behavior analysis
-- ATT&CK Navigator usage
-- Threat hunting concepts
-- Detection engineering
+- Threat intelligence analysis
+- Adversary behavior mapping
+- ATT&CK Matrix interpretation
+- MITRE D3FEND concepts
+- Detection and defense planning
 
-## Screenshots
 ## Screenshots
 
 ### Introduction
