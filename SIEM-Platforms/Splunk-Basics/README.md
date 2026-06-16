@@ -22,3 +22,18 @@ This TryHackMe room introduced Splunk, a Security Information and Event Manageme
 - Developed familiarity with a common enterprise SIEM platform.
 
 ## Screenshots
+### Introduction
+
+![](Introduction.png)
+
+### Splunk Platform Overview
+
+![](Splunk.png)
+
+### Splunk Components
+
+![](SplunkComponets.png)
+
+### Splunk Data Sources
+
+![](Splunkdatasources.png)
