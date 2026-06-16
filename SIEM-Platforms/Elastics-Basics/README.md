@@ -23,3 +23,24 @@ This TryHackMe room introduced Elastic Security and demonstrated how analysts us
 * Gained experience navigating dashboards and security monitoring workflows.
 
 ## Screenshots
+![](Introduction.png)
+
+### Elastic Overview
+
+![](Elastic.png)
+
+### Elastic Stack Architecture
+
+![](ElasticStack.png)
+
+### Kibana Interface
+
+![](Kibana.png)
+
+### Discover Tab
+
+![](DiscoverTab.png)
+
+### Data Visualization
+
+![](Visualization.png)
