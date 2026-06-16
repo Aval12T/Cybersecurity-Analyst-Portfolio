@@ -31,6 +31,6 @@ This TryHackMe room introduced the MITRE ATT&CK framework and demonstrated how s
 
 ![](CTIReport.png)
 
-### WHO Uses ATT&CK
+### Who Uses ATT&CK
 
 ![](WhousesATTACK.png)
