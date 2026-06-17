@@ -1,6 +1,7 @@
 # Network Traffic Analysis
 
 ## Overview
+This project demonstrates the analysis of network traffic using Wireshark to identify communication patterns, inspect packet data, and investigate network activity. The objective was to examine TCP streams, analyze packet captures, and understand how network traffic can be used to support security investigations.
 
 ## Objectives
 - Capture and analyze network traffic
