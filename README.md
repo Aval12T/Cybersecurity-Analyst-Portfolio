@@ -6,6 +6,29 @@ Welcome to my cybersecurity portfolio. I hold a Master of Science in Cybersecuri
 
 This repository showcases hands-on labs, academic projects, technical reports, and security investigations completed through coursework, independent study, and cybersecurity training.
 
+# ⭐ Featured Projects
+
+## Incident Management Simulation
+Applied the NIST 800-61 Incident Response Lifecycle to identify, contain, eradicate, and recover from simulated cyber incidents while documenting findings and response actions.
+
+## Credential Dump Analysis
+Conducted forensic analysis of credential artifacts to investigate attacker activity, identify compromised accounts, and support incident investigations.
+
+## Splunk Security Monitoring
+Utilized Splunk to collect, search, and analyze security logs for threat detection, event correlation, and security investigations.
+
+## Network Enumeration and Scanning
+Performed network discovery and vulnerability identification using industry-standard tools to assess security posture and identify potential risks.
+
+## Security Awareness Program
+Developed and implemented security awareness materials focused on phishing prevention, password security, and cybersecurity best practices.
+
+## Contact
+
+Connect with me on LinkedIn for professional networking 
+
+LinkedIn http://linkedin.com/in/tonivaldez
+
 ## Education
 
 * Master of Science (M.S.) in Cybersecurity
@@ -116,28 +139,6 @@ This repository showcases hands-on labs, academic projects, technical reports, a
 * FTK
 * VirusTotal
 
-## Contact
-
-Connect with me on LinkedIn for professional networking 
-
-LinkedIn http://linkedin.com/in/tonivaldez
-
-# ⭐ Featured Projects
-
-## Incident Management Simulation
-Applied the NIST 800-61 Incident Response Lifecycle to identify, contain, eradicate, and recover from simulated cyber incidents while documenting findings and response actions.
-
-## Credential Dump Analysis
-Conducted forensic analysis of credential artifacts to investigate attacker activity, identify compromised accounts, and support incident investigations.
-
-## Splunk Security Monitoring
-Utilized Splunk to collect, search, and analyze security logs for threat detection, event correlation, and security investigations.
-
-## Network Enumeration and Scanning
-Performed network discovery and vulnerability identification using industry-standard tools to assess security posture and identify potential risks.
-
-## Security Awareness Program
-Developed and implemented security awareness materials focused on phishing prevention, password security, and cybersecurity best practices.
 # 📂 Additional Projects
 
 - Wireshark TCP Stream Analysis
