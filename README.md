@@ -119,6 +119,9 @@ This repository showcases hands-on labs, academic projects, technical reports, a
 ## Contact
 
 Connect with me on LinkedIn for professional networking 
+
+LinkedIn http://linkedin.com/in/tonivaldez
+
 # ⭐ Featured Projects
 
 ## Incident Management Simulation
@@ -135,3 +138,18 @@ Performed network discovery and vulnerability identification using industry-stan
 
 ## Security Awareness Program
 Developed and implemented security awareness materials focused on phishing prevention, password security, and cybersecurity best practices.
+# 📂 Additional Projects
+
+- Wireshark TCP Stream Analysis
+- VirusTotal Malware Analysis
+- Snort Intrusion Detection
+- Custom Snort Rules
+- Endpoint Detection and Response (EDR)
+- MITRE ATT&CK Framework Analysis
+- SOC Level 1 Alert Triage
+- Unified Kill Chain
+- SET Toolkit Attack Simulation
+- Tabletop Exercise
+- United Incident Response Plan
+- Course of Action Analysis
+- Elastic Basics
