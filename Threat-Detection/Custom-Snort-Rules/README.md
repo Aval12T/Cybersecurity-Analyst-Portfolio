@@ -27,3 +27,10 @@ Develop custom Snort detection rules to identify suspicious activity.
 - Detection Engineering
 - Signature Development
 - Threat Detection
+## Custom Snort Rules
+
+This project demonstrates the creation and implementation of custom Snort intrusion detection rules to identify and alert on specific network activities and potential threats.
+
+### Rule Configuration and Results
+
+![Custom Snort Rules](custom-snort-rules.png)
