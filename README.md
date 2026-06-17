@@ -2,7 +2,7 @@
 
 ## About Me
 
-Welcome to my cybersecurity portfolio. I hold a Master of Science in Cybersecurity from Southern New Hampshire University and am currently pursuing a PhD in Cyberpsychology. My interests include Security Operations (SOC), Incident Response, Digital Forensics, Threat Detection, Vulnerability Management, and Security Awareness.
+Welcome to my cybersecurity portfolio. I hold a Master of Science in Cybersecurity from Southern New Hampshire University and am currently pursuing a PhD in Cyberpsychology at Capitol Tech University. My interests include Security Operations (SOC), Incident Response, Digital Forensics, Threat Detection, Vulnerability Management, and Security Awareness.
 
 This repository showcases hands-on labs, academic projects, technical reports, and security investigations completed through coursework, independent study, and cybersecurity training.
 
@@ -28,12 +28,6 @@ Performed network discovery and vulnerability identification using industry-stan
 
 Developed and implemented security awareness materials focused on phishing prevention, password security, and cybersecurity best practices.
 
-## Contact
-
-Connect with me on LinkedIn for professional networking 
-
-LinkedIn http://linkedin.com/in/tonivaldez
-
 ## Education
 
 * Master of Science (M.S.) in Cybersecurity
@@ -43,6 +37,13 @@ LinkedIn http://linkedin.com/in/tonivaldez
 * PhD in Cyberpsychology (In Progress)
 
 * Capitol Technology University
+
+## Contact
+
+Connect with me on LinkedIn for professional networking 
+
+LinkedIn http://linkedin.com/in/tonivaldez
+
 
 ## Certifications
 
