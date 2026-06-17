@@ -12,7 +12,7 @@ This repository showcases hands-on labs, academic projects, technical reports, a
 
 Applied the NIST 800-61 Incident Response Lifecycle to identify, contain, eradicate, and recover from simulated cyber incidents while documenting findings and response actions.
 
-## [Credential Dump Analysis](./Digital-Forensics/Credential-Dump-Analysis/)
+## [Credential Dump Analysis](./Digital-Forensics/Credential-Dump_Analysis/)
 
 Conducted forensic analysis of credential artifacts to investigate attacker activity, identify compromised accounts, and support incident investigations.
 
