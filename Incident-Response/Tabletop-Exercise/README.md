@@ -23,4 +23,6 @@ This project demonstrates an incident response tabletop exercise used to evaluat
 * Risk Management
 * Escalation Procedures
 * Security Governance
+## Project Documentation
 
+📄 [View Tabletop Exercise Scenario](Tabletop-Exercise.png)
