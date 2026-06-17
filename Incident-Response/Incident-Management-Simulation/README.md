@@ -28,4 +28,4 @@ This project demonstrates the application of the NIST 800-61 Incident Response L
 
 ## Project Documentation
 
-📄 [View Full Incident Management Simulation](Incident-Management-Simulation.docx)
+📄 [View Full Incident Management Simulation](./Incident-Management-Simulation.docx)
