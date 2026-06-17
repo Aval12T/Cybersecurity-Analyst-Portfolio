@@ -37,4 +37,6 @@ This project presents the design and implementation of a security awareness prog
 ## Key Takeaways
 
 Human error remains one of the leading causes of security incidents. Effective security awareness programs help reduce organizational risk by educating users on common threats and secure behaviors.
+## Project Documentation
 
+📄 [View Full Security Awareness Program Proposal](./Security-Awareness-Program-Proposal.docx)
