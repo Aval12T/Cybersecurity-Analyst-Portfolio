@@ -25,4 +25,4 @@ This project demonstrates an incident response tabletop exercise used to evaluat
 * Security Governance
 ## Project Documentation
 
-📄 [View Tabletop Exercise Scenario](Tabletop-Exercise.png)
+📄 [View Full Tabletop Exercise](Incident-Response-Tabletop-Exercise.png)
